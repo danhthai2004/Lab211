@@ -1,0 +1,4 @@
+Name;Address;Money
+Nghia;Quang Binh;1000.0
+Thai;Quang Binh;1200.0
+Tien;Hue;1600.0
